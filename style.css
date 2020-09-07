@@ -40,9 +40,9 @@ p{
 @media(max-width:1000px){
     .imgsize{
         border-radius: 100%;
-        background-size: 140px;
-        width: 230px;
-      height: 230px;
+        background-size: 150px;
+        width: 250px;
+      height: 250px;
     }
     .h1tag{
         margin: 30px;
